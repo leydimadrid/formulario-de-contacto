@@ -24,13 +24,9 @@ const Formulario = () => {
 
     setError(false);
 
-    enviado();
-  };
 
-  const enviado = () => {
-    <div>Holi</div>;
   };
-
+  
   return (
     <>
       <div className=" mx-auto md-flex">
